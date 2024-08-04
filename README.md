@@ -1,4 +1,4 @@
-![logo](https://github.com/Prajwal-ayush/Prajwal-ayush/blob/master/WhatsApp%20Image%202024-08-05%20at%2001.49.53.jpeg)
+![logo](https://github.com/Prajwal-ayush/Prajwal-ayush/blob/master/WhatsApp%20Image%202024-08-05%20at%2002.24.01.jpeg)
 <h1 align="center">Hi 👋, I'm Prajjwal Ayush Pandey</h1>
 <h3 align="center">Tech-Enthusiast 3rd year Student passionate about Clouds.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
