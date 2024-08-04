@@ -3,12 +3,12 @@
 <h3 align="center">Tech-Enthusiast 3rd year Student passionate about Clouds.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal-ayush&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal-ayush" /> </p>
-* 🔭 I’m currently working on **Chatting Apllication**
-* 🌱 I’m currently learning **MongoDb ,Angular & nodeJs**
-* 💬 Ask me about **JAVA ,PYTHON , C , MySQL**
-* 📫 How to reach me **prajjawalaayush@gmail.com**
-* 📄 Know about my experiences [https://prajjwal-ayush.tiiny.site/](https://prajjwal-ayush.tiiny.site/)
-* ⚡ Fun fact **Good Coffee enhances my brain**
+ 🔭 I’m currently working on <strong>Chatting Apllication.</strong><br>
+ 🌱 I’m currently learning <strong>MongoDb ,Angular & nodeJs.</strong><br>
+ 💬 Ask me about <strong>JAVA , PYTHON , C , MySQL.</strong><br>
+ 📫 How to reach me <strong>prajjawalaayush@gmail.com</strong><br>
+ 📄 Know about my experiences [https://prajjwal-ayush.tiiny.site/](https://prajjwal-ayush.tiiny.site/)<br>
+ ⚡ Fun fact <strong>Good Coffee enhances my brain.</strong>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/prajwal-ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="prajwal-ayush" height="30" width="40" /></a>
