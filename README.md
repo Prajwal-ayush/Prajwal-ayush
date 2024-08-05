@@ -7,7 +7,7 @@
  🌱 I’m currently learning <strong>MongoDb ,Angular & nodeJs.</strong><br>
  💬 Ask me about <strong>JAVA , PYTHON , C , MySQL.</strong><br>
  📫 How to reach me <strong>prajjawalaayush@gmail.com</strong><br>
- 📄 Know about my experiences [https://prajjwal-ayush.tiiny.site/](https://prajjwal-ayush.tiiny.site/)<br>
+ 📄 Know about my experiences [https://app.luminpdf.com/viewer/66b0cb85603b707b1ec0049f](https://app.luminpdf.com/viewer/66b0cb85603b707b1ec0049f)<br>
  ⚡ Fun fact <strong>Good Coffee enhances my brain.</strong>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
